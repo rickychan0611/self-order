@@ -1,0 +1,17 @@
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.price {
+  margin-top: 5px;
+  font-size: 20px;
+}
+
+.pcs {
+  font-size: 14px;
+}
+
+.ui.image.img {
+  object-fit: cover;
+}

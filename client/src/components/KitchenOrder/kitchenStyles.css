@@ -1,0 +1,28 @@
+.kitOrderHeader {
+  display: flex;
+  background-color: #ac131c;
+  color: white
+  /* justify-content: space-between; */
+}
+.ui.card.kitCard {
+  display: block;
+  margin: 0 auto;
+}
+.ui.button.btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+.ui.fluid.card.kitOrderCard {
+  margin: 1rem 0;
+}
+div.content.cardFlex {
+  display: flex;
+  width: 215px;
+}
+
+.ui.grid.tableNumber {
+  margin-bottom: 30px;
+  box-shadow: 3px 3px 5px #888888;
+
+}
